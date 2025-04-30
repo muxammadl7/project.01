@@ -1,6 +1,13 @@
 .header{
     background-color:white;
     color: black;
+    position: fixed; /* Закрепляет элемент */
+    top: 0; /* Устанавливает позицию в верхней части страницы */
+    left: 0; /* Выравнивание по левому краю */
+    right: 0; /* Ширина на всю ширину экрана */
+    background-color: white; /* Цвет фона шапки */
+    z-index: 1000; /* Устанавливает уровень взаимодействия выше других элементов */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Добавляет теней для улучшения визуального восприятия */
 }
 
 .header__list{
@@ -8,6 +15,7 @@
     justify-content: center;
     list-style: none;
     gap: 20px;
+    flex-wrap: wrap;
 
 }
 .logo{
@@ -27,6 +35,12 @@
     background-color: white;
     color: black;
     text-decoration: none;
+    transition: all 0.4s ease-out;
+
+   }
+   .header__link:hover{
+    background-color:rgb(32, 24, 153);
+    color: #FFF;
    }
    .header__login{
     display: inline-block;

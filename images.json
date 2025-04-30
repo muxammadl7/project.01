@@ -1,0 +1,24 @@
+{
+   "price1": {
+    "button": "– Вариант 1 –",
+    "image": "images/png-clipart-yellow-and-black-magstripe-card-emoji-credit-card-symbol-money-credit-card-angle-rectangle.png",
+    "link": "ссылка 1"
+    
+},
+"price2": {
+    "button": "– Вариант 2 –",
+    "image": "images/синяя карта.webp",
+    "link": "ссылка 2"
+},
+"price3": {
+    "button": "– Вариант 3 –",
+    "image": "images/зеленая карта.webp",
+    "link": "ссылка 3"
+},
+"price4": {
+    "button": "– Вариант 4 –",
+    "image": "images/red-bank-card-.webp",
+    "link": "ссылка 4"
+}
+}
+                

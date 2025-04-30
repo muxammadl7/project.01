@@ -1,8 +1,11 @@
-Инзоров Артур
+Инзоров Артур,
+Эльвина Рахматулина
 ЭК-21
+Мухаммад Почоев
+СТ-24
 Финансовая и прикладная экономика
 Экономический факультет
 Банковский сайт
 Банковский сайт, предоставляющий информацию об актуальных услугах и экосистеме банка. 
 
-�����: https://www.figma.com/design/NZ1rohz694TKbbgx3GKYUZ/%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE?node-id=1-2&node-type=frame&t=vOesIOEFX5rJpRAA-0
+�����: https://www.figma.com/design/NZ1rohz694TKbbgx3GKYUZ/%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE?node-id=1-2&node-type=frame&t=vOesIOEFX5rJpRAA-0
